@@ -1,6 +1,6 @@
 ---
 title: Decap CMS
-date: 2024-11-30T14:05:00.000Z
+date: 2024-12-01T09:50:00.000Z
 ---
 [Decap CMS](https://decapcms.org/blog/2023/02/introducing-decap/) is the [rebranded version of Netlify CMS](https://www.netlify.com/blog/netlify-cms-to-become-decap-cms/).
 
