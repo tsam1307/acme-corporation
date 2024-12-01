@@ -3,7 +3,7 @@ local_backend: true
 
 backend:
   name: github
-  repo: tsam1307/acme-corporation
+  repo: localhost:1313/acme-corporation
   branch: master
 publish_mode: editorial_workflow
 media_folder: 'static/images/uploads'
