@@ -2,9 +2,7 @@
 local_backend: true
 
 backend:
-  name: github
-  repo: localhost:1313/acme-corporation
-  branch: master
+  name: git-gateway
 publish_mode: editorial_workflow
 media_folder: 'static/images/uploads'
 public_folder: '/images/uploads'
