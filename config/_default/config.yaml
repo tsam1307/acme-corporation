@@ -1,0 +1,6 @@
+baseURL: https://tsam1307.github.io/acme-corporation/
+languageCode: en-us
+title: Acme Corporation
+theme: Eclectic
+enableEmoji: true
+enableGitInfo: true
